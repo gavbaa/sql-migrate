@@ -18,3 +18,6 @@ require (
 	gopkg.in/gorp.v1 v1.7.2
 	gopkg.in/yaml.v2 v2.2.5
 )
+
+replace gopkg.in/gorp.v1 => github.com/gavbaa/gorp v1.7.3
+
